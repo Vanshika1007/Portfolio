@@ -88,7 +88,7 @@ export function Hero() {
             <div className="relative">
               <div className="w-80 h-80 md:w-96 md:h-96 rounded-full bg-gradient-card shadow-strong overflow-hidden border-4 border-primary/20">
                 <img
-                  src="/Photo.jpg"
+                  src="/photo.jpg"
                   alt="Vanshika - Data Analytics & AI/ML Engineer"
                   className="w-full h-full object-cover"
                 />
